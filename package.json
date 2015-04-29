@@ -1,0 +1,20 @@
+{
+  "name": "ni-ansi",
+  "version": "0.0.1",
+  "description": "Plugin: adds ansi support to Node Inspector's console.",
+  "homepage": "http://github.com/3y3/ni-ansi",
+  "author": "3y3 <3y3@bk.ru>",
+  "keywords": [
+    "debug",
+    "inspector",
+    "ansi"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/3y3/ni-ansi.git"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {}
+}
