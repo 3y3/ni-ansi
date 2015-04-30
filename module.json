@@ -1,6 +1,4 @@
 {
-    "name": "ansi-colors",
-    "type": "autostart",
     "dependencies": [
         "node/console"
     ],
