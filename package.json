@@ -1,7 +1,7 @@
 {
-  "name": "ni-ansi",
+  "name": "ni-ansi-support",
   "version": "0.0.1",
-  "description": "Plugin: adds ansi support to Node Inspector's console.",
+  "description": "Plugin: adds ansi support to Node Inspector.",
   "homepage": "http://github.com/3y3/ni-ansi",
   "author": "3y3 <3y3@bk.ru>",
   "keywords": [

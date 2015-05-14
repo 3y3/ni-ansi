@@ -1,13 +1,4 @@
 {
-  "name": "ansi-colors",
-  "type": "autostart",
-  "session": {
-    "modules": [
-      {
-        "name": "AnsiClient",
-        "path": "./AnsiClient.js"
-      }
-    ],
-    "agents": []
-  }
+  "name": "ansi-support",
+  "type": "autostart"
 }
